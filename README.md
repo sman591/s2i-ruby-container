@@ -19,6 +19,7 @@ Ruby versions currently provided are:
 * [Ruby 2.3](2.3/README.md)
 * [Ruby 2.4](2.4/README.md)
 * [Ruby 2.5](2.5/README.md)
+* [Ruby 2.6](2.6/README.md)
 
 RHEL versions currently supported are:
 * RHEL7
@@ -85,6 +86,9 @@ see [usage documentation](2.4/README.md).
 
 For information about usage of Dockerfile for Ruby 2.5,
 see [usage documentation](2.5/README.md).
+
+For information about usage of Dockerfile for Ruby 2.6,
+see [usage documentation](2.6/README.md).
 
 
 Test
